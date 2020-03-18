@@ -2,4 +2,4 @@
 
 Create wordcloud based on image model
 
-![Result](output-image/output-2.pg)
+![Result](https://github.com/nindyapsra/nlp-wordcloud/blob/master/output-image/output-2.png)
