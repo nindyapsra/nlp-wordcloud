@@ -2,4 +2,4 @@
 
 Create wordcloud based on image model
 
-![Result](output/output-2.pg)
+![Result](output-image/output-2.pg)
